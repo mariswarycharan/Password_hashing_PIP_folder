@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+hash_maker/__init__.py
+hash_maker/hasher.py
+hash_maker.egg-info/PKG-INFO
+hash_maker.egg-info/SOURCES.txt
+hash_maker.egg-info/dependency_links.txt
+hash_maker.egg-info/requires.txt
+hash_maker.egg-info/top_level.txt
+tests/test_hasher.py
